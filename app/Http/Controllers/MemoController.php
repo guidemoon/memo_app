@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Memo;
-use App\Http\REquests\MemoRequest;
+use App\Http\Requests\MemoRequest;
 
 class MemoController extends Controller
 {
